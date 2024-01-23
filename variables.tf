@@ -20,5 +20,5 @@ variable "tfc_organization_name" {
 # }
 
 variable "tfc_workspace_name" {}
-# variable "oidc_client_id" {}
+variable "client_id" {}
 # variable "oidc_client_secret" {}
